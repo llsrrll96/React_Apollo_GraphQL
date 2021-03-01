@@ -1,9 +1,29 @@
 # React Project
 
-## 참고한 사이트 : https://github.com/QuentinWatt/React-for-beginners-tutorial-series/tree/master/src
+### 참고한 사이트 : https://github.com/QuentinWatt/React-for-beginners-tutorial-series/tree/master/src
+### 참고한 강의 : https://youtu.be/mACw_G-okPE
 
 ## CSS framework
-### tailwindcss : https://tailwindcss.com/
+#### tailwindcss : https://tailwindcss.com/
+### loading css
+#### https://www.w3schools.com/howto/howto_css_loader.asp
 
-## Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML.
-### Sementic UI https://semantic-ui.com/
+## Sementic UI 
+### Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML.
+#### https://semantic-ui.com/
+
+
+## anim lib
+### react-spring
+#### react-spring is a spring-physics based animation library that should cover most of your UI related animation needs. It gives you tools flexible enough to confidently cast your ideas into moving interfaces.
+#### https://www.react-spring.io/docs/hooks/use-transition
+`yarn add react-spring`
+
+
+## mockapi
+#### https://mockapi.io/projects
+`yarn add axios`
+
+
+#### start
+`yarn start`
